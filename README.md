@@ -3,10 +3,9 @@
 A comprehensive personal productivity application built with React, Vite, TailwindCSS, and Convex. This application combines task management (GTD methodology), inventory tracking, and AI-powered features to help you stay organized and productive.
 
 ## Demo
-Try out the demo on [convex.app](https://exuberant-rat-912.convex.app/)! See the [generative chat](https://chef.show/c1c55c) 
-
-Inspired by https://www.youtube.com/shorts/2X0GuU2hY0U.
-
+Try out the demo on [convex.app](https://exuberant-rat-912.convex.app/)!
+- Go to the [generative chat](https://chef.show/c1c55c)
+- Read the original [README](CHEF_README_i5l0ma.md)
 ## Features
 
 ### 📋 Task Management (GTD)
@@ -371,9 +370,9 @@ For support and questions:
 
 ## Roadmap
 
+- [ ] Capture media and file upload
 - [ ] Dark mode implementation
-- [ ] Dark mode implementation
-- [ ] Mobile app (React Native)
+- [ ] Mobile app (flet refactoring)
 - [ ] Offline support with sync
 - [ ] Advanced reporting and analytics
 - [ ] Team collaboration features
