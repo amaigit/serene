@@ -1,6 +1,7 @@
 # Personal Productivity Suite
 
 A comprehensive personal productivity application built with React, Vite, TailwindCSS, and Convex. This application combines task management (GTD methodology), inventory tracking, and AI-powered features to help you stay organized and productive.
+Inspired by https://www.youtube.com/shorts/2X0GuU2hY0U
 
 ## Features
 
