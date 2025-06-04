@@ -3,6 +3,8 @@
 A comprehensive personal productivity application built with React, Vite, TailwindCSS, and Convex. This application combines task management (GTD methodology), inventory tracking, and AI-powered features to help you stay organized and productive.
 Inspired by https://www.youtube.com/shorts/2X0GuU2hY0U
 
+## Demo
+Try out the demo on [convex.app](https://exuberant-rat-912.convex.app/)!
 ## Features
 
 ### 📋 Task Management (GTD)
